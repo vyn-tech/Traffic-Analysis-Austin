@@ -1,4 +1,4 @@
-dash==2.14.2
+dash==2.15.0
 dash_bootstrap_components==1.6.0
 dash_vega_components==0.11.0
 folium==0.14.0
